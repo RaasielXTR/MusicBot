@@ -1,7 +1,7 @@
 const token = require('./token.js');
 module.exports = {
     TOKEN: token.botToken,
-    status: '❤️ Umut Bayraktar',
+    status: '/play',
     commandsDir: './commands', //Please don't touch
 
     opt: {
